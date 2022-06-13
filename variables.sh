@@ -4,7 +4,7 @@ Fruit=Apple
 
 echo Fruit Name= $Fruit
 
-#DATE=2022-06-13
-#DATE=$(date +%F)
+DATE=2022-06-13
+DATE=$(date +%F)
 
 echo Hello Today date is $DATE
